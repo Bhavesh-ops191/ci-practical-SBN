@@ -1,4 +1,4 @@
-STUDENT_INITIALS = "AB"
+STUDENT_INITIALS = "SBN"
 
 
 def add(a, b):
